@@ -9,3 +9,10 @@ Contact Mate is a user-friendly contact management web application built with Re
 Perfect for anyone needing a simple, reliable solution for contact management.
 
 Website Link: https://contactmate-54kati1fm-ys2723s-projects.vercel.app/ 
+
+##
+# Project Information
+Team Size: 1 <br/>
+Project Start Date: 21 July 2024 <br/>
+Project End Date: 22 July 2024 <br/>
+Team Member(s): Yash Tripathi.
