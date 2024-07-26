@@ -1,6 +1,6 @@
 ## Contact Mate
 
-Contact Mate is a user-friendly contact management web application built with React JS. This application allows users to save and manage contacts efficiently. Key features include:
+This contact manager website allows users to add, display, and delete contacts. The application uses React for the front end, React Router for navigation, and local storage to persist contact data. Key features include:
 
 - Save contacts by phone number or email.
 - Delete contacts as needed.
