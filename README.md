@@ -8,7 +8,7 @@ This contact manager website allows users to add, display, and delete contacts. 
   
 Perfect for anyone needing a simple, reliable solution for contact management.
 
-Website Link: https://contactmate-54kati1fm-ys2723s-projects.vercel.app/ 
+Website Link: https://contact-mate.vercel.app/ 
 
 # Screenshots
 
